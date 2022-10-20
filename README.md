@@ -4,7 +4,7 @@
 ~~~html
 <!--<h1>Dhaka Mohila Polytechnic Institute</h1>
     <h2>Dhaka Mohila Polytechnic Institute</h2>
-    <h3>Dhaka Mohila Polytechnic Institute</h3>~~~
-~~~html
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSCCuoTVNZNKSrRxtcJTJPqdmTFftbCWjTiTBr3nS4&s">~
-
+    <h3>Dhaka Mohila Polytechnic Institute</h3>
+~~~
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="hight">with<400>
