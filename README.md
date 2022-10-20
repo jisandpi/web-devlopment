@@ -6,5 +6,5 @@
     <h2>Dhaka Mohila Polytechnic Institute</h2>
     <h3>Dhaka Mohila Polytechnic Institute</h3>
 ~~~
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="sentar" width="300" hsight="400">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="laft" width="300" hsight="400">
 
